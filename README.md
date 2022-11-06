@@ -9,7 +9,6 @@ Technologies Used:
 * Spring Boot - Server side coding
 * MongoDB - Database
 * PostMan - Testing Rest API
-
 More Comprehensive documentation is provided in the task 1 folder of this repo
 ----
 #### Task 4: ####
@@ -18,5 +17,4 @@ Technologies Used:
 * ReactJs
 * HTML, CSS, JS
 * Bootstrap
-
 More Comprehensive documentation is provided in the task 4 folder of this repo
